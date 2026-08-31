@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/
+.vscode/
+
+*.log
+
+db.sqlite3
+
+FakeApp/static/test.csv
+
+.env
