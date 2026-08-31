@@ -90,7 +90,7 @@ The application provides functionality for:
 | **NumPy**             | Data and Numerical Processing    |
 | **HTML**              | Frontend                         |
 | **CSS**               | User Interface Styling           |
-| **SQLite / MySQL**    | Database Configuration           |
+| **MySQL**    | Database Configuration           |
 | **Git & GitHub**      | Version Control                  |
 
 ---
@@ -285,13 +285,13 @@ The main pages include:
 
 ## 🗄️ Database
 
+The project uses MySQL for database-related functionality.
+
 Database-related information and SQL structure are provided in:
 
-```text
 database.txt
-```
 
-The database configuration may vary depending on the local development environment.
+The database must be configured according to the local development environment before running the application.
 
 For security, database passwords, API keys, and other sensitive credentials should not be committed to the repository.
 
@@ -304,7 +304,7 @@ This project is associated with the research paper:
 ### **“Detection of Fake News Through Implementation of Data Science Application”**
 
 **Publication:** IJCRT
-**Team:** 4 Student Members + 1 Guide
+**Team:** 4 Members 
 **Role:** Team Leader & Co-Author
 
 The research work was completed collaboratively by a four-member student team under the guidance of one faculty/project guide.
