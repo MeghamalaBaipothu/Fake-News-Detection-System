@@ -263,14 +263,6 @@ runWebServer.bat
 
 which can be used to start the Django development server on Windows.
 
-To demonstrate the project run this in cmd:
-```cd /d C:\FakeNews
-venv\Scripts\activate
-python manage.py runserver```
-
-Then open:
-```http://127.0.0.1:8000/```
-
 ### Application Templates
 
 The Django templates are located in:
